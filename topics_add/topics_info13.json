@@ -1,0 +1,20 @@
+[
+  {
+    "topic_id": 0,
+    "name": "dancing / dream / criminal",
+    "score": 0.4777,
+    "words": [
+      "perfect",
+      "dancer"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "name": "child / childhood / nostalgia",
+    "score": 0.482,
+    "words": [
+      "remember",
+      "little"
+    ]
+  }
+]

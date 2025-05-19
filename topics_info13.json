@@ -1,0 +1,20 @@
+[
+  {
+    "topic_id": 0,
+    "name": "music / time / pop",
+    "score": 0.4281,
+    "words": [
+      "tempo",
+      "got"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "name": "love / kissing / fight",
+    "score": 0.6083,
+    "words": [
+      "come",
+      "love"
+    ]
+  }
+]

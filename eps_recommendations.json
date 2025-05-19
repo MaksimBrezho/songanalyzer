@@ -1,0 +1,77 @@
+[
+  {
+    "filename": "embeddings_a.npy",
+    "eps": 1.0779841129919774,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_all_components_equal.npy",
+    "eps": 0.8947186906899073,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_b1.npy",
+    "eps": 0.25938617865291713,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_b2.npy",
+    "eps": 0.18985202123842307,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_c1.npy",
+    "eps": 1.0352312403058563,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_c2.npy",
+    "eps": 0.3331647792401094,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_d1.npy",
+    "eps": 3.9533752783520866,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_d2.npy",
+    "eps": 2.956432556517599,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_lda_combined.npy",
+    "eps": 0.2166074707468416,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_lyrics_plus_lda.npy",
+    "eps": 0.7820939217836286,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_lyrics_plus_semantic.npy",
+    "eps": 0.815235825283475,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_lyrics_plus_twss.npy",
+    "eps": 1.357118561058341,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_semantic_combined.npy",
+    "eps": 0.5870219349568164,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_text_heavy.npy",
+    "eps": 0.6764679819876326,
+    "min_samples": 4
+  },
+  {
+    "filename": "embeddings_twss_combined.npy",
+    "eps": 3.8843034511402763,
+    "min_samples": 4
+  }
+]

@@ -1,0 +1,45 @@
+{
+    "text_processing": {
+        "min_token_length": 5
+    },
+    "lda_model": {
+        "num_topics": 2,
+        "passes": 2,
+        "iterations": 10,
+        "alpha": "asymmetric",
+        "eta": 0.35,
+        "chunksize": 100,
+        "eval_every": 5,
+        "minimum_probability": 0.03,
+        "random_state": 42,
+        "dtype": "float32"
+    },
+    "topic_naming": {
+        "topic_words_for_naming": 2,
+        "topic_embed_topn": 2
+    },
+    "embedding": {
+        "sentence_model": "all-mpnet-base-v2"
+    },
+    "topic_assignment": {
+        "top_lda_topics_per_doc": 2,
+        "top_semantic_topics_per_doc": 2
+    },
+    "theme_mapping": {
+        "theme_words_topk": 2
+    },
+    "similarity": {
+        "topic_similarity_topk": 2,
+        "similarity_power": 3
+    },
+    "files": {
+        "input_file": "simplified_lyrics_test100.json",
+        "output_file": "lyrics_meta_with_topics13.json",
+        "topics_info_file": "topics_info13.json",
+        "theme_words_file": "theme_to_words13.json"
+    },
+    "processing": {
+        "lda_workers": 8,
+        "progress_manager": "console"
+    }
+}
